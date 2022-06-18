@@ -1,0 +1,4 @@
+rootProject.name = 'dongnae-study'
+include 'domain'
+include 'application'
+
